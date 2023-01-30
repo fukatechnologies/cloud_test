@@ -268,7 +268,7 @@
           }
         }
       ],
-      "deployment":[
+      "deployments":[
         {
           "d_uuid": 1,
           "id": 1,
@@ -305,7 +305,7 @@
           "body":"-"
         }
       ],
-      "location":[
+      "locations":[
         {
         "id":1,
         "name":"TM Sentul",
