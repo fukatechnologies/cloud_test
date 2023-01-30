@@ -267,5 +267,106 @@
             "bs": "target end-to-end models"
           }
         }
-      ]
+      ],
+      "deployment":[
+        {
+          "d_uuid": 1,
+          "id": 1,
+          "desc": "Room Temperature",
+          "pv": "23°C",
+          "body":"-"
+        },
+        {
+          "d_uuid": 1,
+          "id": 2,
+          "desc": "Humidity, RH",
+          "pv": "67%",
+          "body":"-"
+        },
+        {
+          "d_uuid": 1,
+          "id": 3,
+          "desc": "Pressure",
+          "pv": "1.23Bar",
+          "body" :"-"
+        },
+        {
+          "d_uuid": 1,
+          "id": 4,
+          "desc": "Temperature Control",
+          "pv": "33°C",
+          "body":"-"
+        },
+        {
+          "d_uuid": 1,
+          "id": 5,
+          "desc": "Power KWh",
+          "pv": "653.55 KWh",
+          "body":"-"
+        }
+      ],
+      "location":[
+        {
+        "id":1,
+        "name":"TM Sentul",
+        "tag": "770736-803-x56442-1",
+        "address":{
+            "id": "53919-4257-1",
+        "zipcode": "53919-4257",
+          "geo":{
+            "lat": "3.220832",
+            "lng": "101.6917"
+          },
+        }
+    },
+        {
+        "id":2,
+        "name":"TM Kota Damansara",
+        "tag": "770736-803-x56442-2",
+        "address":{
+            "id": "53919-4257-2",
+            "zipcode": "53919-4257",
+          "geo":{
+            "lat": "3.150217",
+            "lng": "101.5801"
+          },
+        }},
+        {
+        "id":3,
+        "name":"TM Cheras",
+        "tag": "770736-803-x56442-3",
+        "address":{
+            "id": "53919-4257-3",
+            "zipcode": "53919-4257",
+          "geo":{
+            "lat": "3.046342",
+            "lng": "101.7246"
+          },
+        }},
+        {
+        "id":4,
+        "name":"TM Puchong",
+        "tag": "770736-803-x56442-4",
+        "address":{
+            "id": "53919-4257-4",
+            "zipcode": "53919-4257",
+          "geo":{
+            "lat": "3.001805",
+            "lng": "101.6216"
+          },
+        }},
+        {
+        "id":5,
+        "name":"TM KLCC",
+        "tag": "770736-803-x56442-5",
+        "address":{
+            "id": "53919-4257-5",
+            "zipcode": "53919-4257",
+          "geo":{
+            "lat": "3.147164",
+            "lng": "101.6810",
+              }
+        }
+    }
+    ]
 }
