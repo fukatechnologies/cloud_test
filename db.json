@@ -68,35 +68,35 @@
   ],
   "deployments": [
     {
-      "d_uuid": 1,
+      "duuid": 1,
       "id": 1,
       "desc": "Room Temperature",
       "pv": "23°C",
       "body": "-"
     },
     {
-      "d_uuid": 1,
+      "duuid": 1,
       "id": 2,
       "desc": "Humidity, RH",
       "pv": "67%",
       "body": "-"
     },
     {
-      "d_uuid": 1,
+      "duuid": 1,
       "id": 3,
       "desc": "Pressure",
       "pv": "1.23Bar",
       "body": "-"
     },
     {
-      "d_uuid": 1,
+      "duuid": 1,
       "id": 4,
       "desc": "Temperature Control",
       "pv": "33°C",
       "body": "-"
     },
     {
-      "d_uuid": 1,
+      "duuid": 1,
       "id": 5,
       "desc": "Power KWh",
       "pv": "653.55 KWh",
