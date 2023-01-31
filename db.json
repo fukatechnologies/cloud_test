@@ -2,7 +2,7 @@
   "locations": [
     {
       "id": 1,
-      "name": "TM Sentul",
+      "name": "KFC Sentul",
       "tag": "770736-803-x56442-1",
       "address": {
         "id": "53919-4257-1",
@@ -15,7 +15,7 @@
     },
     {
       "id": 2,
-      "name": "TM Kota Damansara",
+      "name": "KFC Kota Damansara",
       "tag": "770736-803-x56442-2",
       "address": {
         "id": "53919-4257-2",
@@ -28,7 +28,7 @@
     },
     {
       "id": 3,
-      "name": "TM Cheras",
+      "name": "KFC Cheras",
       "tag": "770736-803-x56442-3",
       "address": {
         "id": "53919-4257-3",
@@ -41,7 +41,7 @@
     },
     {
       "id": 4,
-      "name": "TM Puchong",
+      "name": "KFC Puchong",
       "tag": "770736-803-x56442-4",
       "address": {
         "id": "53919-4257-4",
@@ -54,7 +54,7 @@
     },
     {
       "id": 5,
-      "name": "TM KLCC",
+      "name": "KFC KLCC",
       "tag": "770736-803-x56442-5",
       "address": {
         "id": "53919-4257-5",
